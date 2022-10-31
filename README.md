@@ -3,10 +3,20 @@
 I'm a 20 y.o. developer from Santiago, Chile. I'm actually studying Engineering @ the University of Chile, FCFM, part of the <a href="https://www.dcc.uchile.cl/" target="_blank">CS Department</a> (@DCCuchile).
 </p>
 
-| Telegram | Music | Instagram | Twitter |
-|----------|-------|-----------|---------|
-| (click)      | (click)   | (click)       | (click)     | 
-
+<table align="center">
+  <tr>
+    <th>Telegram</th>
+    <th>Music</th>
+    <th>Instagram</th>
+    <th>Twitter</th>
+  </tr>
+  <tr>
+    <td>a</td>
+    <td>bs</td>
+    <td>c</td>
+    <td>d</td>
+  </tr>
+</table>
   
 ![](https://komarev.com/ghpvc/?username=maxfloresv)
 
