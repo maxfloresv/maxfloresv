@@ -1,5 +1,5 @@
 ## Aló 👋 
-I'm a 20 y.o. developer from Santiago, Chile. I'm actually studying Engineering @ the University of Chile, FCFM, part of the [CS department](https://www.dcc.uchile.cl/) (@DCCuchile)
+I'm a 20 y.o. developer from Santiago, Chile. I'm actually studying Engineering @ the University of Chile, FCFM, part of the [CS department](https://www.dcc.uchile.cl/) (@DCCuchile).
 
 ---
 ### 📚 Interests
