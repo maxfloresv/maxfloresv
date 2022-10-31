@@ -1,5 +1,15 @@
 ## Aló 👋 
+<p align=center>
 I'm a 20 y.o. developer from Santiago, Chile. I'm actually studying Engineering @ the University of Chile, FCFM, part of the [CS department](https://www.dcc.uchile.cl/) (@DCCuchile).
+</p>
+
+| Telegram | Music | Instagram | Twitter |
+|----------|-------|-----------|---------|
+| (click)      | (click)   | (click)       | (click)     | 
+
+  
+![](https://komarev.com/ghpvc/?username=maxfloresv)
+
 
 ---
 ## 📚 Interests
@@ -14,5 +24,4 @@ Some of my areas of interest in CS are:
 and other interests like Sports 🎾🏓👟🚴‍♂️, Travelling ✈️, Teaching 👨‍🏫, Competitive Programming 💻 & Project Management (extra: 🐧)
 
 ---
-![](https://komarev.com/ghpvc/?username=maxfloresv)
 
