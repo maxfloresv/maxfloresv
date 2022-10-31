@@ -1,18 +1,17 @@
 ### Aló 👋 
+I'm a 20 y.o. developer from Santiago, Chile. Some of my areas of interest in CS are:
+* Robotics
+* Artificial Intelligence
+* Software Engineering
+* Process Optimization
+* Algorithms
+* Human-Computer Interaction
+
+and other interests like Sports 🎾🏓👟🚴‍♂️, Travelling ✈️, Teaching 👨‍🏫 & Project Management.
+
+I'm actually studying Engineering @ the University of Chile, FCFM, part of the [CS department](https://www.dcc.uchile.cl/) (@DCCuchile)
+
+This thing is broken.
 
 ![](https://komarev.com/ghpvc/?username=maxfloresv)
 
-<!--
-**maxfloresv/maxfloresv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
