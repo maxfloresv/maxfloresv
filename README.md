@@ -32,4 +32,4 @@ Some of my areas of interest in CS are:
 * 🔧 Algorithms
 * 🧑 Human-Computer Interaction
 
-and other interests like Sports 🎾🏓👟🚴‍♂️, Travelling ✈️, Teaching 👨‍🏫 & Project Management.
+Other interests: Sports 🏓👟🚴‍♂️, Travelling ✈️, Teaching 👨‍🏫 & Project Management 📊.
