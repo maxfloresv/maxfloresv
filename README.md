@@ -31,5 +31,3 @@ Some of my areas of interest in CS are:
 * ⚙️ Process Optimization
 * 🔧 Algorithms
 * 🧑 Human-Computer Interaction
-
-Other interests: Sports 🏓👟🚴‍♂️, Travelling ✈️, Teaching 👨‍🏫 & Project Management 📊.
