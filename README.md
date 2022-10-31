@@ -18,7 +18,7 @@ I'm a 20 y.o. developer from Santiago, Chile. I'm actually studying Engineering 
   </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=maxfloresv)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=maxfloresv"></img></p>
 
 ---
 ## 📚 Interests
