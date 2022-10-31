@@ -23,7 +23,6 @@
 
 <p align="center"></p>
 
----
 ## 📚 Interests
 Some of my areas of interest in CS are:
 * 🤖 Robotics
@@ -34,5 +33,3 @@ Some of my areas of interest in CS are:
 * 🧑 Human-Computer Interaction
 
 and other interests like Sports 🎾🏓👟🚴‍♂️, Travelling ✈️, Teaching 👨‍🏫, Competitive Programming 💻 & Project Management.
-
----
