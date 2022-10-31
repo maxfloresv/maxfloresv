@@ -1,4 +1,4 @@
-## Aló 👋 
+<h2 style="text-align: center;">Aló 👋</h2>
 <p align=center>
 I'm a 20 y.o. developer from Santiago, Chile. I'm actually studying Engineering @ the University of Chile, FCFM, part of the [CS department](https://www.dcc.uchile.cl/) (@DCCuchile).
 </p>
