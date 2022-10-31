@@ -1,6 +1,6 @@
 <h2 align="center">Aló 👋</h2>
 <p align=center>
-I'm a 20 y.o. developer from Santiago, Chile. I'm actually studying Engineering @ the University of Chile, FCFM, part of the <a href="https://www.dcc.uchile.cl/">CS Department</a> (@DCCuchile).
+I'm a 20 y.o. developer from Santiago, Chile. I'm actually studying Engineering @ the University of Chile, FCFM, part of the <a href="https://www.dcc.uchile.cl/" target="_blank">CS Department</a> (@DCCuchile).
 </p>
 
 | Telegram | Music | Instagram | Twitter |
