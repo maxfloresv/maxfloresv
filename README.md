@@ -1,8 +1,8 @@
-<h2 align="left">Aló 👋</h2>
+
 <img align="left" src="https://user-images.githubusercontent.com/45862114/199099932-bda5f404-226a-415c-8d1c-89afe75105ff.gif" width="175px"></img>
 <h3 align="center">💬 About Me</h3>
 <p align="center">
-I'm a 20 y.o. developer from Santiago, Chile. I'm actually studying Engineering @ the University of Chile, FCFM, part of the <a href="https://www.dcc.uchile.cl/" target="_blank">CS Department</a> (@DCCuchile). <img src="https://komarev.com/ghpvc/?username=maxfloresv"></img>
+Aló 👋. I'm a 20 y.o. developer from Santiago, Chile. I'm actually studying Engineering @ the University of Chile, FCFM, part of the <a href="https://www.dcc.uchile.cl/" target="_blank">CS Department</a> (@DCCuchile). <img src="https://komarev.com/ghpvc/?username=maxfloresv"></img>
 </p>
 
 <table align="center">
