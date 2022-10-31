@@ -11,10 +11,10 @@ I'm a 20 y.o. developer from Santiago, Chile. I'm actually studying Engineering 
     <th>Twitter</th>
   </tr>
   <tr>
-    <td><a href="https://t.me/v4_maximo"><img src="https://user-images.githubusercontent.com/45862114/199097271-4710c839-1734-43e4-a9c7-0c3312e53494.png" width="50px"></img></a></td>
-    <td><a href="https://open.spotify.com/user/n3uhrt19kdv7prdxogibsdte6"><img src="https://user-images.githubusercontent.com/45862114/199097711-2486962f-8165-47c7-8887-fd149b5a551b.png" width="50px"></img></a></td>
-    <td><a href="https://instagram.com/v4_maximo"><img src="https://user-images.githubusercontent.com/45862114/199097932-ffb94a23-35d8-4b85-80c7-a5149f64df78.png" width="50px"></img></a></td>
-    <td><a href="https://twitter.com/v4_maximo"><img src="https://user-images.githubusercontent.com/45862114/199098139-b5d5a136-b4c4-4d7d-94e8-b9f2a5468a38.png" width="50px"></img></a></td>
+    <td><a href="https://t.me/v4_maximo"><img src="https://user-images.githubusercontent.com/45862114/199097271-4710c839-1734-43e4-a9c7-0c3312e53494.png" width="60px"></img></a></td>
+    <td><a href="https://open.spotify.com/user/n3uhrt19kdv7prdxogibsdte6"><img src="https://user-images.githubusercontent.com/45862114/199097711-2486962f-8165-47c7-8887-fd149b5a551b.png" width="60px"></img></a></td>
+    <td><a href="https://instagram.com/v4_maximo"><img src="https://user-images.githubusercontent.com/45862114/199097932-ffb94a23-35d8-4b85-80c7-a5149f64df78.png" width="60px"></img></a></td>
+    <td><a href="https://twitter.com/v4_maximo"><img src="https://user-images.githubusercontent.com/45862114/199098139-b5d5a136-b4c4-4d7d-94e8-b9f2a5468a38.png" width="60px"></img></a></td>
   </tr>
 </table>
 
