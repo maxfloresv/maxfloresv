@@ -11,7 +11,7 @@ I'm a 20 y.o. developer from Santiago, Chile. I'm actually studying Engineering 
     <th>Twitter</th>
   </tr>
   <tr>
-    <td>a</td>
+    <td><a href="https://t.me/v4_maximo"><img src="https://user-images.githubusercontent.com/45862114/199097271-4710c839-1734-43e4-a9c7-0c3312e53494.png" width="110px"></img></a></td>
     <td>bs</td>
     <td>c</td>
     <td>d</td>
