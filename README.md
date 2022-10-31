@@ -27,9 +27,9 @@
 Some of my areas of interest in CS are:
 * 🤖 Robotics
 * 🧠 Artificial Intelligence
-* Software Engineering
+* 💻 Software Engineering
 * ⚙️ Process Optimization
 * 🔧 Algorithms
 * 🧑 Human-Computer Interaction
 
-and other interests like Sports 🎾🏓👟🚴‍♂️, Travelling ✈️, Teaching 👨‍🏫, Competitive Programming 💻 & Project Management.
+and other interests like Sports 🎾🏓👟🚴‍♂️, Travelling ✈️, Teaching 👨‍🏫 & Project Management.
