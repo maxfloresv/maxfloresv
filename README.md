@@ -5,6 +5,7 @@
  I'm a 20 y.o. developer from Santiago, Chile. I'm actually studying Engineering @ the University of Chile, FCFM, part of the <a href="https://www.dcc.uchile.cl/" target="_blank">CS Department</a> (@DCCuchile). <img src="https://komarev.com/ghpvc/?username=maxfloresv"></img>
 </p>
 
+<!--
 <table align="center">
   <tr>
     <th>Telegram</th>
@@ -19,7 +20,7 @@
     <td><p align="center"><a href="mailto:maximo.flores@ug.uchile.cl"><img src="https://user-images.githubusercontent.com/45862114/199100632-f380c613-4d66-4b2b-94ac-b1264003817d.png" width="50px"></img></a></p></td>
   </tr>
 </table>
-
+-->
 
 <p align="center"></p>
 
