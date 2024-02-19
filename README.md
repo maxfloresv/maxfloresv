@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td>
-      ![45862114](https://github.com/maxfloresv/maxfloresv/assets/45862114/02241852-b106-4598-a2a7-a7d6cb9a8ed4)
+      <img src="https://github.com/maxfloresv/maxfloresv/blob/main/logo.jpg?raw=true" />
     </td>
     <td>
       I'm a Software Developer from Santiago, Chile, interested in Software Engineering & Data Science. Currently working as a Full Stack Developer @ Center of Mathematical Modeling (CMM).
