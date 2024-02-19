@@ -1,3 +1,8 @@
+## 👋 Welcome to my personal page!
+I'm a Software Developer from Santiago, Chile. Currently working as a Full Stack Developer @ Center of Mathematical Modeling (CMM).
+<!-- Views <img src="https://komarev.com/ghpvc/?username=maxfloresv"></img>-->
+
+<!--
 <h2>Aló 👋</h2>
 <img align="left" src="https://user-images.githubusercontent.com/45862114/199099932-bda5f404-226a-415c-8d1c-89afe75105ff.gif" width="175px"></img>
 <h3 align="center">💬 About Me</h3>
@@ -5,7 +10,6 @@
  I'm a 21 y.o. developer from Santiago, Chile. I'm actually studying Engineering @ the University of Chile, FCFM, part of the <a href="https://www.dcc.uchile.cl/" target="_blank">CS Department</a> (@DCCuchile). <img src="https://komarev.com/ghpvc/?username=maxfloresv"></img>
 </p>
 
-<!--
 <table align="center">
   <tr>
     <th>Telegram</th>
@@ -20,7 +24,7 @@
     <td><p align="center"><a href="mailto:maximo.flores@ug.uchile.cl"><img src="https://user-images.githubusercontent.com/45862114/199100632-f380c613-4d66-4b2b-94ac-b1264003817d.png" width="50px"></img></a></p></td>
   </tr>
 </table>
--->
+
 
 <p align="center"></p>
 
@@ -32,3 +36,4 @@ Some of my areas of interest in CS are:
 * ⚙️ Process Optimization
 * 🔧 Algorithms
 * 🧑 Human-Computer Interaction
+-->
