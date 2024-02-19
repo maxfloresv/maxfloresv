@@ -1,5 +1,15 @@
 ## 👋 Welcome to my GitHub page!
-I'm a Software Developer from Santiago, Chile, interested in Software Engineering & Data Science. Currently working as a Full Stack Developer @ Center of Mathematical Modeling (CMM).
+
+<table align="center">
+  <tr>
+    <td>
+      ![45862114](https://github.com/maxfloresv/maxfloresv/assets/45862114/02241852-b106-4598-a2a7-a7d6cb9a8ed4)
+    </td>
+    <td>
+      I'm a Software Developer from Santiago, Chile, interested in Software Engineering & Data Science. Currently working as a Full Stack Developer @ Center of Mathematical Modeling (CMM).
+    </td>
+  </tr>
+</table>
 <!-- Views <img src="https://komarev.com/ghpvc/?username=maxfloresv"></img>-->
 
 <!--
