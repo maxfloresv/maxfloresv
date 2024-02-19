@@ -1,5 +1,5 @@
 ## 👋 Welcome to my GitHub page!
-I'm a Computer Scientist from Santiago, Chile, interested in Software Engineering & Data Science. Currently working as a Full Stack Developer @ Center of Mathematical Modeling (CMM).
+I'm a Software Developer from Santiago, Chile, interested in Computer Science & Data Science. Currently working as a Full Stack Developer @ Center of Mathematical Modeling (CMM).
 <!-- Views <img src="https://komarev.com/ghpvc/?username=maxfloresv"></img>-->
 
 <!--
