@@ -1,5 +1,5 @@
 ## 👋 Welcome to my personal page!
-I'm a Software Developer from Santiago, Chile. Currently working as a Full Stack Developer @ Center of Mathematical Modeling (CMM).
+I'm a Software Developer from Santiago, Chile. Currently working as a Full Stack Developer @ Center of Mathematical Modeling (CMM). I'm interested in Software Engineering & Data Science.
 <!-- Views <img src="https://komarev.com/ghpvc/?username=maxfloresv"></img>-->
 
 <!--
