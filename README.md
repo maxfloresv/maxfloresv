@@ -6,7 +6,7 @@
       <img src="https://github.com/maxfloresv/maxfloresv/blob/main/logo.jpg?raw=true" width="90" />
     </td>
     <td>
-      I'm a Software Developer from Santiago, Chile, interested in Software Engineering & Data Science. Currently working as a Full Stack Developer @ Center of Mathematical Modeling (CMM).
+      I'm a Software Developer from Santiago, Chile, interested in Software Engineering. Currently working as a Full Stack Developer @ Center of Mathematical Modeling (CMM).
     </td>
   </tr>
 </table>
