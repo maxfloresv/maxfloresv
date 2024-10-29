@@ -6,7 +6,7 @@
       <img src="https://github.com/maxfloresv/maxfloresv/blob/main/logo.jpg?raw=true" width="90" />
     </td>
     <td>
-      I'm a Software Engineer from Santiago, Chile.
+      I'm a Software Engineer from Santiago, Chile, also interested in Theoretical Computer Science.
     </td>
   </tr>
 </table>
