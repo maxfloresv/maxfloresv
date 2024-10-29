@@ -1,9 +1,9 @@
 ## 👋 Welcome to my GitHub page!
 
-I'm from Santiago, Chile. My areas of interest are:
+I'm a Computer Scientist from Santiago, Chile 🇨🇱. I work in the following areas:
 
-- Software Engineering
-- Theoretical CS (specifically: Algorithms, Data Structures, Theory of Computation, Probabilistic Computation, Approximation Algorithms).
+- Software Engineering 💻
+- Theoretical CS ⚙️ (Algorithms, Data Structures, Theory of Computation, Probabilistic Computation, Approximation Algorithms).
 
 <!-- Views <img src="https://komarev.com/ghpvc/?username=maxfloresv"></img>-->
 
