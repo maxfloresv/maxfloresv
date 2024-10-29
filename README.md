@@ -1,15 +1,10 @@
 ## 👋 Welcome to my GitHub page!
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github.com/maxfloresv/maxfloresv/blob/main/logo.jpg?raw=true" width="90" />
-    </td>
-    <td>
-      I'm a Software Engineer from Santiago, Chile, also interested in Theoretical Computer Science.
-    </td>
-  </tr>
-</table>
+I'm from Santiago, Chile. My areas of interest are:
+
+- Software Engineering
+- Theoretical CS (specifically: Algorithms, Data Structures, Theory of Computation, Probabilistic Computation, Approximation Algorithms).
+
 <!-- Views <img src="https://komarev.com/ghpvc/?username=maxfloresv"></img>-->
 
 <!--
