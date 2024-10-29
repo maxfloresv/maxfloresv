@@ -3,7 +3,7 @@
 I'm a Computer Scientist and Engineer from Santiago, Chile 🇨🇱. I specialize in the areas listed below.
 
 - Software Engineering 💻.
-- Theoretical CS ⚙️ (Algorithms, Data Structures, Computability Theory, Computational Complexity Theory, Probabilistic Computation and Approximation Algorithms).
+- Theoretical CS ⚙️ (Algorithms, Data Structures, Information Theory, Computability Theory, Computational Complexity Theory and Probabilistic Computation)
 
 <!-- Views <img src="https://komarev.com/ghpvc/?username=maxfloresv"></img>-->
 
