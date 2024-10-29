@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub page!
 
-I'm a Computer Scientist and Engineer from Santiago, Chile 🇨🇱. I work in the following areas:
+I'm a Computer Scientist and Engineer from Santiago, Chile 🇨🇱. I specialize in the areas listed below.
 
 - Software Engineering 💻
 - Theoretical CS ⚙️ (Algorithms, Data Structures, Theory of Computation, Probabilistic Computation, Approximation Algorithms).
