@@ -27,7 +27,6 @@ I'm a **Computer Scientist and Engineer** from Santiago, Chile. I specialize in 
       <li>🔹 <strong>DevOps & Cloud:</strong> Docker, Kubernetes, AWS, GitHub Actions, Grafana.</li>
       <li>🔹 <strong>Data Science:</strong> Pandas, Numpy, Scikit-Learn, Tensorflow, Seaborn, Matplotlib.</li>
     </ul>
-    <p>🔭 I'm currently working at <a href="https://toctoc.com/" target="_blank">TOCTOC</a>.</p>
     <p>🌱 I'm a Master of Data Science student at University of Chile (double degree with Computer Science and Engineering).</p>
 </details>
 
